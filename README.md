@@ -2,6 +2,17 @@
 
 ### 💻 Desenvolvedor Web | Full Stack | JavaScript | Python | Supabase | Inteligência Artificial
 
+<p>
+  <img src="https://img.shields.io/badge/HTML5-HTML-informational?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-CSS-informational?logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-JavaScript-informational?logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-Python-informational?logo=python" />
+  <img src="https://img.shields.io/badge/TypeScript-TypeScript-informational?logo=typescript" />
+  <img src="https://img.shields.io/badge/Supabase-Supabase-informational?logo=supabase" />
+  <img src="https://img.shields.io/badge/Git-Git-informational?logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-GitHub-informational?logo=github" />
+</p>
+
 Desenvolvedor focado na criação de aplicações web, sistemas de gestão e soluções utilizando inteligência artificial.
 
 Tenho desenvolvido projetos completos envolvendo **frontend, lógica de negócio, banco de dados, autenticação, APIs e integração com IA**, buscando transformar necessidades reais em soluções funcionais.
