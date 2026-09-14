@@ -13,6 +13,15 @@
   <img src="https://img.shields.io/badge/GitHub-GitHub-informational?logo=github" />
 </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/gabriel-rabello-b6b652304">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Rabello-blue?logo=linkedin">
+  </a>
+  <a href="https://github.com/gabrielrabello879">
+    <img src="https://img.shields.io/badge/GitHub-gabrielrabello879-black?logo=github">
+  </a>
+</p>
+
 Desenvolvedor focado na criação de aplicações web, sistemas de gestão e soluções utilizando inteligência artificial.
 
 Tenho desenvolvido projetos completos envolvendo **frontend, lógica de negócio, banco de dados, autenticação, APIs e integração com IA**, buscando transformar necessidades reais em soluções funcionais.
